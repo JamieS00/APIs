@@ -1,0 +1,15 @@
+/Users/Jamie/Projects/Basketball/Basketball/bin/Debug/net7.0/Basketball
+/Users/Jamie/Projects/Basketball/Basketball/bin/Debug/net7.0/Basketball.deps.json
+/Users/Jamie/Projects/Basketball/Basketball/bin/Debug/net7.0/Basketball.runtimeconfig.json
+/Users/Jamie/Projects/Basketball/Basketball/bin/Debug/net7.0/Basketball.dll
+/Users/Jamie/Projects/Basketball/Basketball/bin/Debug/net7.0/Basketball.pdb
+/Users/Jamie/Projects/Basketball/Basketball/obj/Debug/net7.0/Basketball.csproj.AssemblyReference.cache
+/Users/Jamie/Projects/Basketball/Basketball/obj/Debug/net7.0/Basketball.GeneratedMSBuildEditorConfig.editorconfig
+/Users/Jamie/Projects/Basketball/Basketball/obj/Debug/net7.0/Basketball.AssemblyInfoInputs.cache
+/Users/Jamie/Projects/Basketball/Basketball/obj/Debug/net7.0/Basketball.AssemblyInfo.cs
+/Users/Jamie/Projects/Basketball/Basketball/obj/Debug/net7.0/Basketball.csproj.CoreCompileInputs.cache
+/Users/Jamie/Projects/Basketball/Basketball/obj/Debug/net7.0/Basketball.dll
+/Users/Jamie/Projects/Basketball/Basketball/obj/Debug/net7.0/refint/Basketball.dll
+/Users/Jamie/Projects/Basketball/Basketball/obj/Debug/net7.0/Basketball.pdb
+/Users/Jamie/Projects/Basketball/Basketball/obj/Debug/net7.0/Basketball.genruntimeconfig.cache
+/Users/Jamie/Projects/Basketball/Basketball/obj/Debug/net7.0/ref/Basketball.dll
